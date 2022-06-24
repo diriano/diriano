@@ -2,7 +2,8 @@
 
 <p align='center'>
 User/Admin of:
- a href="https://www.linkedin.com/in/diegorianopachon/">
+ <br />
+ <a href="https://www.linkedin.com/in/diegorianopachon/">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
  </a>&nbsp;&nbsp;
 </p>
